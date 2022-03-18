@@ -19,7 +19,7 @@ https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/oxforddata.
 
 --------------------------------
 
-Data showing a summary of Average rainfall across Oxford and Melbourne
+Outputs showing a summary of Average rainfall across Oxford and Melbourne
 
 --------------------------------
 
